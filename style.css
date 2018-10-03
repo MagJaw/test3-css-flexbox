@@ -27,15 +27,15 @@ body{
 
 .one{
     background: red;
-    
+    flex-basis: 100px;
 }
 
 .two{
     background: blue;
-    
+    flex-basis: 200px;
 }
 
 .three{
     background: green;
-    
+    flex-basis: 300px;
 }
